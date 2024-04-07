@@ -1,0 +1,91 @@
+[18:45:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:45:37] [ServerMain/INFO]: Loaded 1174 recipes
+[18:45:38] [ServerMain/INFO]: Loaded 1271 advancements
+[18:45:38] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:45:38] [Server thread/INFO]: Loading properties
+[18:45:38] [Server thread/INFO]: This server is running Paper version git-Paper-466 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: a203544)
+[18:45:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:45:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:45:38] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:45:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[18:45:39] [Server thread/INFO]: Default game type: SURVIVAL
+[18:45:39] [Server thread/INFO]: Generating keypair
+[18:45:39] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:7005
+[18:45:39] [Server thread/INFO]: Using epoll channel type
+[18:45:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:45:39] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[18:45:39] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[18:45:40] [Server thread/INFO]: [floodgate] Took 863ms to boot Floodgate
+[18:45:40] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3
+[18:45:40] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[18:45:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:45:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:45:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.8
+[18:45:41] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.2
+[18:45:41] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
+[18:45:41] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:45:41] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:45:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:45:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.8
+[18:45:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[18:45:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:45:42] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[18:45:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:45:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:45:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:45:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:45:42] [Server thread/INFO]: Preparing level "world"
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.0.8
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8b54a2c
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:45:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:45:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:45:43] [Server thread/INFO]: Time elapsed: 429 ms
+[18:45:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:45:44] [Server thread/INFO]: Time elapsed: 212 ms
+[18:45:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:45:44] [Server thread/INFO]: Time elapsed: 93 ms
+[18:45:44] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[18:45:44] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[18:45:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
+[18:45:45] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[18:45:45] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
+[18:45:45] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
+[18:45:45] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://viaversion.com/setup
+[18:45:45] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
+[18:45:45] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.2
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] 
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-3d9f3ac)
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] 
+[18:45:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:45:49] [Server thread/INFO]: [Geyser-Spigot] Port set from system property: 19132
+[18:45:49] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[18:45:49] [Server thread/INFO]: [Geyser-Spigot] Done (3.886s)! Run /geyser help for help!
+[18:45:49] [Server thread/INFO]: Running delayed init tasks
+[18:45:49] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:45:49] [Server thread/INFO]: Done (11.195s)! For help, type "help"
+[18:45:49] [Server thread/INFO]: Timings Reset
+[18:45:49] [Craft Scheduler Thread - 1 - SetHome/INFO]: [SetHome] SetHome Remote version: 6.2.3
+[18:45:49] [Craft Scheduler Thread - 1 - SetHome/INFO]: [SetHome] SetHome Local version: 6.2.2
+[18:45:49] [Craft Scheduler Thread - 1 - SetHome/INFO]: [SetHome] There is a new update available for SetHome! Update available at https://www.spigotmc.org/resources/set-home.32748/
+[18:45:54] [Server thread/INFO]: Collecting dump info
+[18:45:55] [Server thread/INFO]: Uploading dump
+[18:45:55] [Server thread/INFO]: We've made a dump with useful information, report your issue and provide this url: https://dump.geysermc.org/zT7gv5CYFQjwhOHjrJ24kdSvqYGob47F
+[18:48:29] [Server thread/INFO]: The port you are testing with (7005) is not the same as you set in your Geyser configuration (19132)
+[18:48:29] [Server thread/INFO]: Re-run the command with the port in the config, or change the `bedrock` `port` in the config.
+[18:48:29] [ForkJoinPool.commonPool-worker-3/INFO]: Testing server connection to 198.24.178.34 with port: 7005 now. Please wait...
+[18:48:33] [ForkJoinPool.commonPool-worker-3/INFO]: Your server is likely unreachable from outside the network!
+[18:48:33] [ForkJoinPool.commonPool-worker-3/INFO]: Got the error message: Connection timed out
+[18:48:33] [ForkJoinPool.commonPool-worker-3/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/
+[18:48:33] [ForkJoinPool.commonPool-worker-3/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc
